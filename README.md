@@ -22,10 +22,15 @@ chmod +x shadowsocksR.sh
 根据需求选择合适的配置（可选默认参数）：
 
 Your Server IP        :  $HOST
+
 Your Server Port      :  $PORT
+
 Your Password         :  $PASSWORD
+
 Your Protocol         :  auth_sha1_v4
+
 Your obfs             :  tls1.2_ticket_auth
+
 Your Encryption Method:  aes-256-cfb
 
 4.安装bbr加速器
